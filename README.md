@@ -1,7 +1,4 @@
 # my-website
 updating the file
 
-updating
-
-
-More tweaks
+update readme before rebase
