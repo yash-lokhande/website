@@ -5,3 +5,6 @@ update readme before rebase
 
 ##repository
 conflict
+
+
+### adding getting started section
